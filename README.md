@@ -23,7 +23,7 @@ store.dispatch(i18nAction.setLocale('zh-CN'));
 store.dispatch(i18nAction.extend({
   namespace: 'common',
   lang: {
-    'zh-CN': {
+    'zh-CN':  {
       lang: '当前语言：'
     },
     'en-US': {
