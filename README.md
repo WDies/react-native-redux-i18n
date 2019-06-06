@@ -1,4 +1,4 @@
-# wd-react-native-redux-i18n
+# react-native-redux-i18next
 
 基于 redux 的 react-native 国际化组件
 
@@ -12,7 +12,7 @@
 ## i18nReducer
 
 ``` js
-import { i18nReducer, i18nAction } from 'wd-react-native-redux-i18n';
+import { i18nReducer, i18nAction } from 'react-native-redux-i18next';
 
 const store = createStore(combineReducers({ i18n: i18nReducer }));
 

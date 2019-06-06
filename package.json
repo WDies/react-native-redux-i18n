@@ -1,5 +1,5 @@
 {
-  "name": "wd-react-native-redux-i18n",
+  "name": "react-native-redux-i18next",
   "version": "1.0.0",
   "description": "International component based on redux",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WDies/wd-react-native-redux-i18n.git"
+    "url": "git+https://github.com/WDies/react-native-redux-i18next.git"
   },
   "keywords": [
     "i18n",
@@ -29,9 +29,9 @@
   "author": "WD",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/WDies/wd-react-native-redux-i18n/issues"
+    "url": "https://github.com/WDies/react-native-redux-i18next/issues"
   },
-  "homepage": "https://github.com/WDies/wd-react-native-redux-i18n#readme",
+  "homepage": "https://github.com/WDies/react-native-redux-i18next#readme",
   "dependencies": {
     "react-native-deprecated-custom-components": "^0.1.2",
     "babel-plugin-add-module-exports": "^0.2.1",
