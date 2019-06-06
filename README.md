@@ -1,4 +1,4 @@
-# React-native-redux-i18n
+# react-native-redux-i18n
 
 基于 redux 的 react-native 国际化组件
 
